@@ -1,8 +1,9 @@
 #EXTM3U
 
 ############################################################################ Canais | ABERTO
- #EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="Canais | REALITY",BBB Cam 1 HD 
- https://cr7v.short.gy/live/BBB1/Index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="Canais | REALITY",BBB Cam 1 HD 
+https://cr7v.short.gy/live/BBB1/Index.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="Canais | REALITY",BBB Cam 2 HD
 https://cr7v.short.gy/live/BBB2/Index.m3u8
