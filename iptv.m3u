@@ -2,16 +2,13 @@
 
 ############################################################################ Canais | ABERTO
 
-#EXTINF:-1,BBB1 Acompanhe a Casa FHD
+#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="Canais | REALITY",BBB1 Acompanhe a Casa FHD 
 http://s.apkwuv.xyz:80/6jcBys/VND1HB/179431
-
-#EXTINF:-1,BBB1 Acompanhe a Casa HD
+#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="Canais | REALITY",BBB1 Acompanhe a Casa HD 
 http://s.apkwuv.xyz:80/6jcBys/VND1HB/147453
-
-#EXTINF:-1,BBB2 Acompanhe a Casa FHD
+#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="Canais | REALITY",BBB2 Acompanhe a Casa FHD
 http://s.apkwuv.xyz:80/6jcBys/VND1HB/179433
-
-#EXTINF:-1,BBB2 Acompanhe a Casa HD
+#EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="Canais | REALITY",BBB2 Acompanhe a Casa HD 
 http://s.apkwuv.xyz:80/6jcBys/VND1HB/179432
 
 #EXTINF:-1 tvg-logo="https://imgur.com/p65dwlm.png" group-title="Canais | REALITY",BBB Cam 1 HD 
